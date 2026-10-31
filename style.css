@@ -1,0 +1,39 @@
+html{
+    height: fit-content;
+    width: fit-content;
+}
+body{
+    align-content: baseline;
+}
+#name{
+    font-size: 30px;
+}
+#name,#l1,#l2 {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-style: normal;
+    font-size: medium;
+    font-family: 'Times roman';
+}
+.heading{
+    color: rgb(22, 120, 147);
+    font-weight: 300;
+    font-size: 20px;
+}
+.year {
+    text-align: flex;
+}
+.item{
+    display: flex;
+}
+.details{
+    flex: 1;
+}
